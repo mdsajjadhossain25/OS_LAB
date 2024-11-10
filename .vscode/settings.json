@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "wait.h": "c",
+        "unistd.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "fcntl.h": "c"
+    }
+}
